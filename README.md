@@ -1,2 +1,2 @@
-# Dise-o-Orientado-a-Objetos
+# DOO
 Tareas DOO
